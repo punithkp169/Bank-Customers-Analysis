@@ -25,4 +25,5 @@ To analyze the bank's customers in terms of demographic characteristics, account
 - Analysis of Loan Defaults
 
 ## Dashboard
+![Report](https://github.com/user-attachments/assets/ea8c090c-b227-45c0-af0d-a46a547c7a91)
 
